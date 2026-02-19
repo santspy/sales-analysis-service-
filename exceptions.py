@@ -1,2 +1,0 @@
-class ColunaNaoEncontradaError(Exception):
-    pass
